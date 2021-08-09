@@ -3,7 +3,7 @@ import React from 'react';
 const Tutorial = () => {
   return (
     <div>
-      <h1>Tutorial: Intro to React</h1>
+      <h1>Tutorial: Intro to Reacts</h1>
       <p>
         <span>This tutorial doesn’t assume any existing React knowledge.</span>
       </p>
