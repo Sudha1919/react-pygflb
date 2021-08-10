@@ -23,7 +23,8 @@ function App() {
         <ReactSearch />
       </div>
       <Route path="/" component={Mainpage} exact />
-      <Route path="/docs" component={Docs} />
+      <Route path="/documents" component={Docs} />
+    
       <Route path="/tutorial" component={Tutorial} />
       <Route path="/blog" component={Blog} />
       <Route path="/contact" component={Contact} />

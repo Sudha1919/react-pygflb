@@ -5,7 +5,7 @@ function ReactNav() {
   return (
     <ul className={styles.reactNav}>
       <li>
-        <Link to="/docs">Docs</Link>
+        <Link to="/documents">Docs</Link>
       </li>
       <li>
         <Link to="/tutorial">Tutorial</Link>
